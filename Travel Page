@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "Project: Travel webpage"</title>
+    </head>
+    <style>
+       html {background-color:rgb(237, 237, 237);} 
+       p {font-family: monospace; color:rgb(219, 48, 88);}
+       ol {color:rgb(219, 48,88);}
+       h2 {color: rgb(133, 123, 133);}
+    </style>
+    <body>
+    
+        <h1>Travel to Belarus</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/1200px-Flag_of_Belarus.svg.png" alt="flag of Belarus with the rushnik pattern" width= "500">
+        
+        <h2>Where is it?</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Europe-Belarus.svg/250px-Europe-Belarus.svg.png">
+        <p> Belarus lies between latitudes 51° and 57° N, and longitudes 23° and 33° E. Its extension from north to south is 560 km (350 mi), from west to east is 650 km (400 mi). It is landlocked, relatively flat, and contains large tracts of marshy land.[81] About 40% of Belarus is covered by forests. <br><br>
+
+Many streams and 11,000 lakes are found in Belarus. Three major rivers run through the country: the Neman, the Pripyat, and the Dnieper. The Neman flows westward towards the Baltic sea and the Pripyat flows eastward to the Dnieper; the Dnieper flows southward towards the Black Sea. </p>
+
+    <h2>What to do and what to see</h2>
+    
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Belarus-Polatsk-Cathedral_of_Sophia-2.jpg/170px-Belarus-Polatsk-Cathedral_of_Sophia-2.jpg"alt="Saint-Sophia Polatsk Cathedral">
+    
+    <p>The Belarusian government sponsors annual cultural festivals such as the Bazaar in Vitebsk,[189] which showcases Belarusian performers, artists, writers, musicians, and actors. Several state holidays, such as Independence Day and Victory Day, draw big crowds and often include displays such as fireworks and military parades, especially in Vitebsk and Minsk.[190] The government's Ministry of Culture finances events promoting Belarusian arts and culture both inside and outside the country. <br><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Theatre_opera%26ballet%2C_Minsk.JPG/220px-Theatre_opera%26ballet%2C_Minsk.JPG"alt="Minsk Ballet and Opera Theatre"><br> Music in Belarus largely comprises a rich tradition of folk and religious music. The country's folk music traditions can be traced back to the times of the Grand Duchy of Lithuania. In the 19th century, Polish composer Stanisław Moniuszko composed operas and chamber music pieces while living in Minsk. During his stay, he worked with Belarusian poet Vintsent Dunin-Martsinkyevich and created the opera Sialanka (Peasant Woman). At the end of the 19th century, major Belarusian cities formed their own opera and ballet companies. The ballet Nightingale by M. Kroshner was composed during the Soviet era and became the first Belarusian ballet showcased at the National Academic Vialiki Ballet Theatre in Minsk. </p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/RIAN_archive_411183_18th_International_Art_Festival_Slavyansky_Bazar_opens_in_Vitebsk.jpg/250px-RIAN_archive_411183_18th_International_Art_Festival_Slavyansky_Bazar_opens_in_Vitebsk.jpg"alt="Art Festival in Vitebsk">
+    
+    <h2>Top 3 cities in Belarus</h2>
+    <ol>
+        <li>Minsk</li>
+        <li>Homyel</li>
+        <li>Mahilyow</li>
+    </ol>
+    
+    <h2>Top 3 best dishes</h2>
+    <ol>
+        <li>Babka</li>
+        <li>Borscht</li>
+        <li>Machanka</li>
+    </ol>
+    </body>
+</html>
